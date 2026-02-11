@@ -1,0 +1,12 @@
+git config --global user.name " Opi " 
+git config --global user.email " tanzinopi@gmail.com "
+
+git init 
+
+git remote add origin https://github.com/tanzinopi/practice.git
+
+git push -u origin main
+ 
+git branch -M main
+ 
+git add Text.txt
