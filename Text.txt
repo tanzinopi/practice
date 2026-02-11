@@ -10,3 +10,18 @@ git push -u origin main
 git branch -M main
  
 git add Text.txt
+
+git add .
+ 
+git commit -m "3rd commit "
+ 
+git push -u origin main
+
+
+git add .
+ 
+git commit -m "new commit "
+ 
+git push -u origin main
+
+ 
